@@ -22,9 +22,6 @@ Indexador documental con lógica vectorial y fichas JSON para preservar conocimi
 Generador de mapas, visualizaciones y fichas inteligentes desde CSV y datos históricos.
 
 
----
-
-rchivísticas  
 
 ---
 
